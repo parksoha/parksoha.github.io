@@ -1,0 +1,40 @@
+/* 데이터 보관하기 */
+let data = [
+  {
+    id: 6,
+    title: "한라봉 크림 케이크",
+    content: "Hallabong Cream Cake",
+    price: 5000,
+    img: "https://parksoha.github.io/img/cont3_cake6.jpg",
+  },
+  {
+    id: 7,
+    title: "당근 현무암케이크",
+    content: "Jeju Carrot Basalt Cake",
+    price: 4500,
+    img: "https://parksoha.github.io/img/cont3_cake7.jpg",
+  },
+  {
+    id: 8,
+    title: "흑임자 롤",
+    content: "Black Sesame Roll",
+    price: 7000,
+    img: "https://parksoha.github.io/img/cont3_cake8.jpg",
+  },
+  {
+    id: 9,
+    title: "초콜릿 생크림 케이크",
+    content: "The Chocolate Fresh Cream Cake",
+    price: 8300,
+    img: "https://parksoha.github.io/img/cont3_cake9.jpg",
+  },
+  {
+    id: 10,
+    title: "티라미수 케이크",
+    content: "Mascarpone Tiramisu Cake",
+    price: 5500,
+    img: "https://parksoha.github.io/img/cont3_cake10.jpg",
+  },
+];
+
+export default data;
